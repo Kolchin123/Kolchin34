@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1587662280 source:d:\codeblocks\laba3_6\main.cpp
+	<iostream>
+	"Electrogadget.h"
+	"Notebook.h"
+	"Smartphone.h"
+	"Smartwatch.h"
+	"Tablet.h"
+
+1587665972 source:d:\codeblocks\laba3_6\electrogadget.cpp
+	"Electrogadget.h"
+
+1587666357 source:d:\codeblocks\laba3_6\notebook.cpp
+	"Notebook.h"
+	<iostream>
+
+1587666004 source:d:\codeblocks\laba3_6\smartphone.cpp
+	"Smartphone.h"
+	<iostream>
+
+1587667283 source:d:\codeblocks\laba3_6\smartwatch.cpp
+	"Smartwatch.h"
+	<iostream>
+
+1587666958 source:d:\codeblocks\laba3_6\tablet.cpp
+	"Tablet.h"
+	<iostream>
+
+1587664268 d:\codeblocks\laba3_6\electrogadget.h
+	<string>
+
+1587666357 d:\codeblocks\laba3_6\notebook.h
+	<string>
+	"Electrogadget.h"
+
+1587665073 d:\codeblocks\laba3_6\smartphone.h
+	<string>
+	"Electrogadget.h"
+
+1587667283 d:\codeblocks\laba3_6\smartwatch.h
+	<string>
+	"Electrogadget.h"
+
+1587666836 d:\codeblocks\laba3_6\tablet.h
+	<string>
+	"Electrogadget.h"
+
